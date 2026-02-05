@@ -1,5 +1,5 @@
 // Save this file as Main.java
-public class Main {
+public class test {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
